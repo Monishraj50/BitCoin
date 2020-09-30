@@ -16,7 +16,7 @@ Prophet is a facebooks’ open source time series prediction. Prophet decomposes
 
 ### Installing Prophet
 Install Prophet using either command prompt or Anaconda prompt using pip
-
+> pip install fbprophet
 
 We can also install plotly for plotting the data for prophet
 

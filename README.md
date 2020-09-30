@@ -19,7 +19,7 @@ Install Prophet using either command prompt or Anaconda prompt using pip
 > pip install fbprophet
 
 We can also install plotly for plotting the data for prophet
-
+> pip install plotly
 
 
 ### Steps for using Prophet:

@@ -6,17 +6,17 @@ Download the dataset from here
   
 #### All the files have the following columns:
 
-Date - in format: yy-mm-dd
+**Date** - in format: yy-mm-dd
 
-Open - price of the stock at market open (this is NYSE data so all in USD)
+**Open** - price of the stock at market open (this is NYSE data so all in USD)
 
-High - Highest price reached in the day
+**High** - Highest price reached in the day
 
-Low  - Lowest price reached in the day
+**Low**  - Lowest price reached in the day
 
-Close- price of the stock at market close
+**Close**- price of the stock at market close
 
-Volume - Number of shares traded 
+**Volume** - Number of shares traded 
 ## Prophet
 Prophet is a facebooks’ open source time series prediction. Prophet decomposes time series into trend, seasonality and holiday. It has intuitive hyper parameters which are easy to tune.
 * Trend models non periodic changes in the value of the time series.</br>

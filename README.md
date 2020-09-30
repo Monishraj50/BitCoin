@@ -1,17 +1,17 @@
 # BitCoin 
 ## Prophet
 Prophet is a facebooks’ open source time series prediction. Prophet decomposes time series into trend, seasonality and holiday. It has intuitive hyper parameters which are easy to tune.
-1.Trend models non periodic changes in the value of the time series.</br>
-2.Seasonality is the periodic changes like daily, weekly, or yearly seasonality.</br>
-3.Holiday effect which occur on irregular schedules over a day or a period of days.</br>
-4.Error terms is what is not explained by the model.</br>
+* Trend models non periodic changes in the value of the time series.</br>
+* Seasonality is the periodic changes like daily, weekly, or yearly seasonality.</br>
+* Holiday effect which occur on irregular schedules over a day or a period of days.</br>
+* Error terms is what is not explained by the model.</br>
 
 ### Advantages of using Prophet
-Accommodates seasonality with multiple periods
-Prophet is resilient to missing values
-Best way to handle outliers in Prophet is to remove them
-Fitting of the model is fast
-Intuitive hyper parameters which are easy to tune
+* Accommodates seasonality with multiple periods
+* Prophet is resilient to missing values
+* Best way to handle outliers in Prophet is to remove them
+* Fitting of the model is fast
+* Intuitive hyper parameters which are easy to tune
 
 
 ### Installing Prophet
@@ -23,9 +23,9 @@ We can also install plotly for plotting the data for prophet
 
 
 ### Steps for using Prophet:
-Make sure you replace closing price for y and date for ds.
-Fit that dataframe to Prophet in order to detect future patterns.
-Predict the upper and lower prices of the closing price.
+* Make sure you replace closing price for y and date for ds.
+* Fit that dataframe to Prophet in order to detect future patterns.
+* Predict the upper and lower prices of the closing price.
 
 # Technical Analysis
 The basic technical concepts when dealing with stock investing. This are simple theories however, we shouldn't solely rely on these concepts to maximize profits as it is the case with patterns related to moving averages. Before going into this concepts, I will like to show how OHLC and Candlesticks are interpreted.

@@ -51,7 +51,7 @@ The basic technical concepts when dealing with stock investing. This are simple 
 The OHLC chart (for open, high, low and close) is a style of financial chart describing open, high, low and close values for a given x coordinate (most likely time). The tip of the lines represent the low and high values and the horizontal segments represent the open and close values. Sample points where the close value is higher (lower) then the open value are called increasing (decreasing).
 
 <img src=https://github.com/Monishraj50/BitCoin/blob/master/img/OHLC.png height =300>
-The candle shows the Open price ,the High and Low price and the for each period of time.This differs slightly on wether the candle is Bullish(Up) or Bearish(Down).
+The candle shows the Open price ,the High and Low price and the Close price for each period of time.This differs slightly on whether the candle is Bullish(Up) or Bearish(Down).
 
 ## Candlestick Charts:
 The candlestick chart is a style of financial chart describing open, high, low and close for a given x coordinate (most likely time). The boxes represent the spread between the open and close values and the lines represent the spread between the low and high values. Sample points where the close value is higher (lower) then the open value are called increasing (decreasing).

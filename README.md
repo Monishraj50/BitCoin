@@ -1,4 +1,8 @@
 # BitCoin 
+Predicting and Analysis of BitCoin by using Prophet.
+### DataSet
+Download the dataset from below
+  [download](https://finance.yahoo.com/quote/BTC-USD/history?period1=1443484800&period2=1601337600&interval=1d&filter=history&frequency=1d)
 ## Prophet
 Prophet is a facebooks’ open source time series prediction. Prophet decomposes time series into trend, seasonality and holiday. It has intuitive hyper parameters which are easy to tune.
 * Trend models non periodic changes in the value of the time series.</br>

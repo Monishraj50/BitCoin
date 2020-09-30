@@ -4,7 +4,7 @@ Predicting and Analysis of BitCoin by using Prophet.
 Download the dataset from here
   [download](https://finance.yahoo.com/quote/BTC-USD/history?period1=1443484800&period2=1601337600&interval=1d&filter=history&frequency=1d)
   
-##### All the files have the following columns:
+#### All the files have the following columns:
 
 Date - in format: yy-mm-dd
 
